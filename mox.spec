@@ -4,7 +4,7 @@
 #
 Name     : mox
 Version  : 0.5.3
-Release  : 10
+Release  : 11
 URL      : https://pypi.python.org/packages/source/m/mox/mox-0.5.3.tar.gz
 Source0  : https://pypi.python.org/packages/source/m/mox/mox-0.5.3.tar.gz
 Summary  : Mock object framework
