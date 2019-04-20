@@ -4,7 +4,7 @@
 #
 Name     : mox
 Version  : 0.5.3
-Release  : 19
+Release  : 20
 URL      : http://pypi.debian.net/mox/mox-0.5.3.tar.gz
 Source0  : http://pypi.debian.net/mox/mox-0.5.3.tar.gz
 Summary  : Mock object framework
